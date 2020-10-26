@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/OriginalSicksec?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=OriginalSicksec)
 
-## I'm a Hacker, Bug Bounty, and Gamer!!
+## I'm a Hacker, Bug Bounty Hunter, and Gamer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Hackers around the world

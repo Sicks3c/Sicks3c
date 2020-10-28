@@ -1,7 +1,7 @@
 ### Hi there, I'm Ayoub - aka [sicksec] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/OriginalSicksec?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=OriginalSicksec)
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=amiralkizaru&show_icons=true&theme=radical" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Sicks3c&show_icons=true&theme=radical" width="380">
 
 ## I'm a Hacker, Bug Bounty Hunter, and Gamer!!
 

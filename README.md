@@ -20,6 +20,6 @@
 
 [twitter]: https://twitter.com/OriginalSicksec
 [instagram]: https://instagram.com/ayoub.elaich
-[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/ayoub-el-5b8676168/
+[linkedin]: https://www.linkedin.com/in/ayoub-el-5b8676168/
 
 <br/>
